@@ -26,7 +26,6 @@ colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
 crewai==0.41.1
-crewai-tools==0.4.26
 dataclasses-json==0.6.6
 debugpy==1.8.1
 decorator==5.1.1
